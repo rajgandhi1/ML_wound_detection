@@ -1,0 +1,20 @@
+# Do not include azure-functions-worker as it may conflict with the Azure Functions platform
+azure-functions
+requests
+numpy
+torch
+torchvision
+opencv-python
+pycocotools
+onnxruntime
+onnx
+Pillow==10.2.0
+supervision
+transformers
+addict
+yapf
+timm
+groundingdino @ git+https://github.com/IDEA-Research/GroundingDINO.git
+
+
+
