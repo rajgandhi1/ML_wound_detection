@@ -32,7 +32,7 @@ This project leverages the GroundingDINO model to identify wounds, ulcers, and c
    ```bash
    python -m pip install -r requirements.txt
 3. Set up the Azure Function project:
-   - Follow the [Azure Functions Quickstart](https://aka.ms/azure-functions/python/quickstart) guide to set up the function environment.
+   - Follow the [Azure Functions Quickstart](https://learn.microsoft.com/en-us/azure/azure-functions/functions-get-started?pivots=programming-language-csharp) guide to set up the function environment.
    - The project is configured to work with Python using Visual Studio Code.
 
 ## Directory Structure
